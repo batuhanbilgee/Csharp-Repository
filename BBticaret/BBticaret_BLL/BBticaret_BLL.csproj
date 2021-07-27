@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C96D412B-1925-4679-A4D0-CF89718FDC56}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BBticaret_BLL</RootNamespace>
+    <AssemblyName>BBticaret_BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryImplementation\AssetRepository.cs" />
+    <Compile Include="RepositoryImplementation\BillingAdressRepository.cs" />
+    <Compile Include="RepositoryImplementation\BrandRepository.cs" />
+    <Compile Include="RepositoryImplementation\CartItemRepository.cs" />
+    <Compile Include="RepositoryImplementation\CartRepository.cs" />
+    <Compile Include="RepositoryImplementation\CategoryRepository.cs" />
+    <Compile Include="RepositoryImplementation\CombineProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\CountryRepository.cs" />
+    <Compile Include="RepositoryImplementation\CurrencyRepository.cs" />
+    <Compile Include="RepositoryImplementation\CurrentAccountRepository.cs" />
+    <Compile Include="RepositoryImplementation\DistributorToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\DistrubutorRepository.cs" />
+    <Compile Include="RepositoryImplementation\ErrorRepository.cs" />
+    <Compile Include="RepositoryImplementation\ExtraInfoRepository.cs" />
+    <Compile Include="RepositoryImplementation\ExtraInfoToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\FavouritedProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\InstallmentRateRepository.cs" />
+    <Compile Include="RepositoryImplementation\LabelRepository.cs" />
+    <Compile Include="RepositoryImplementation\LabelToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\LocationRepository.cs" />
+    <Compile Include="RepositoryImplementation\MaillistGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\MaillistRepository.cs" />
+    <Compile Include="RepositoryImplementation\MemberAddressRepository.cs" />
+    <Compile Include="RepositoryImplementation\MemberGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\MemberRepository.cs" />
+    <Compile Include="RepositoryImplementation\OptionGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\OptionRepository.cs" />
+    <Compile Include="RepositoryImplementation\OptionToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderAddressRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderDetailRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderItemCustomizationRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderItemRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderItemSubscriptionRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderRefundRequestItemRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderRefundRequestRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderRepository.cs" />
+    <Compile Include="RepositoryImplementation\OrderUserNoteRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentGatewayRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentGatewaySettingRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentProviderRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentProviderSettingRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentRepository.cs" />
+    <Compile Include="RepositoryImplementation\PaymentTypeRepository.cs" />
+    <Compile Include="RepositoryImplementation\PreferenceRepository.cs" />
+    <Compile Include="RepositoryImplementation\PreOrderInfoRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductButtonRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductCommentRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductDetailRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductImageRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductPriceRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductProtectionRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductSpecialInfoRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductToCategoryRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductToCountDownRepository.cs" />
+    <Compile Include="RepositoryImplementation\ProductToTagRepository.cs" />
+    <Compile Include="RepositoryImplementation\PurshaseLimitationItemRepository.cs" />
+    <Compile Include="RepositoryImplementation\PurshaseLimitationRepository.cs" />
+    <Compile Include="RepositoryImplementation\QuickCartRepository.cs" />
+    <Compile Include="RepositoryImplementation\RegionRepository.cs" />
+    <Compile Include="RepositoryImplementation\ScriptTagRepository.cs" />
+    <Compile Include="RepositoryImplementation\SelectionGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\SelectionRepository.cs" />
+    <Compile Include="RepositoryImplementation\SelectionToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShipmentItemRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShipmentRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShippingAddressRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShippingCompanyRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShippingProviderRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShippingProviderSettingRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShippingRateRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShopCompaignsRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShopTokenRepository.cs" />
+    <Compile Include="RepositoryImplementation\ShopUserLevelRepository.cs" />
+    <Compile Include="RepositoryImplementation\SpecGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\SpecNameRepository.cs" />
+    <Compile Include="RepositoryImplementation\SpecToProductRepository.cs" />
+    <Compile Include="RepositoryImplementation\SpecValueRepository.cs" />
+    <Compile Include="RepositoryImplementation\TagRepository.cs" />
+    <Compile Include="RepositoryImplementation\ThemeRepository.cs" />
+    <Compile Include="RepositoryImplementation\TownGroupRepository.cs" />
+    <Compile Include="RepositoryImplementation\TownRepository.cs" />
+    <Compile Include="RepositoryImplementation\UserRepository.cs" />
+    <Compile Include="RepositoryPattern\IRepository.cs" />
+    <Compile Include="RepositoryPattern\Repository.cs" />
+    <Compile Include="SingletonPattern\Tools.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BBticaret_DAL\BBticaret_DAL.csproj">
+      <Project>{b29571fe-d71d-496b-88d1-fdd4ad377aac}</Project>
+      <Name>BBticaret_DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BBticaret_Model\BBticaret_Model.csproj">
+      <Project>{08fac6f1-3755-4595-8550-691fb4c43ad6}</Project>
+      <Name>BBticaret_Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

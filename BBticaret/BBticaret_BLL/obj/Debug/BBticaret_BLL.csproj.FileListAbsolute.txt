@@ -1,0 +1,36 @@
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_BLL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_BLL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_DAL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\obj\Debug\BBticaret_BLL.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\obj\Debug\BBticaret_BLL.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\obj\Debug\BBticaret_BLL.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\obj\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_BLL\obj\Debug\BBticaret_BLL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_BLL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_BLL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_DAL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\obj\Debug\BBticaret_BLL.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\obj\Debug\BBticaret_BLL.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\obj\Debug\BBticaret_BLL.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\obj\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_BLL\obj\Debug\BBticaret_BLL.pdb

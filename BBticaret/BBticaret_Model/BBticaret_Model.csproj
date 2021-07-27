@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08FAC6F1-3755-4595-8550-691FB4C43AD6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BBticaret_Model</RootNamespace>
+    <AssemblyName>BBticaret_Model</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\Asset.cs" />
+    <Compile Include="Entity\BaseEntity.cs" />
+    <Compile Include="Entity\BillingAddress.cs" />
+    <Compile Include="Entity\Brand.cs" />
+    <Compile Include="Entity\Cart.cs" />
+    <Compile Include="Entity\CartItem.cs" />
+    <Compile Include="Entity\Category.cs" />
+    <Compile Include="Entity\CombineProduct.cs" />
+    <Compile Include="Entity\Country.cs" />
+    <Compile Include="Entity\Currency.cs" />
+    <Compile Include="Entity\CurrentAccount.cs" />
+    <Compile Include="Entity\Distributor.cs" />
+    <Compile Include="Entity\DistributorToProduct.cs" />
+    <Compile Include="Entity\Error.cs" />
+    <Compile Include="Entity\ExtraInfo.cs" />
+    <Compile Include="Entity\ExtraInfoToProduct.cs" />
+    <Compile Include="Entity\FavouritedProduct.cs" />
+    <Compile Include="Entity\InstallmentRate.cs" />
+    <Compile Include="Entity\Label.cs" />
+    <Compile Include="Entity\LabelToProduct.cs" />
+    <Compile Include="Entity\Location.cs" />
+    <Compile Include="Entity\Maillist.cs" />
+    <Compile Include="Entity\MaillistGroup.cs" />
+    <Compile Include="Entity\Member.cs" />
+    <Compile Include="Entity\MemberAddress.cs" />
+    <Compile Include="Entity\MemberGroup.cs" />
+    <Compile Include="Entity\OptionGroup.cs" />
+    <Compile Include="Entity\Option.cs" />
+    <Compile Include="Entity\OptionToProduct.cs" />
+    <Compile Include="Entity\Order.cs" />
+    <Compile Include="Entity\OrderAddress.cs" />
+    <Compile Include="Entity\OrderDetail.cs" />
+    <Compile Include="Entity\OrderItem.cs" />
+    <Compile Include="Entity\OrderItemCustomization.cs" />
+    <Compile Include="Entity\OrderItemSubscription.cs" />
+    <Compile Include="Entity\OrderRefundRequest.cs" />
+    <Compile Include="Entity\OrderRefundRequestItem.cs" />
+    <Compile Include="Entity\OrderUserNote.cs" />
+    <Compile Include="Entity\Payment.cs" />
+    <Compile Include="Entity\PaymentGateway.cs" />
+    <Compile Include="Entity\PaymentGatewaySetting.cs" />
+    <Compile Include="Entity\PaymentProvider.cs" />
+    <Compile Include="Entity\PaymentProviderSetting.cs" />
+    <Compile Include="Entity\PaymentType.cs" />
+    <Compile Include="Entity\Preference.cs" />
+    <Compile Include="Entity\PreOrderInfo.cs" />
+    <Compile Include="Entity\Product.cs" />
+    <Compile Include="Entity\ProductButton.cs" />
+    <Compile Include="Entity\ProductComment.cs" />
+    <Compile Include="Entity\ProductDetail.cs" />
+    <Compile Include="Entity\ProductImage.cs" />
+    <Compile Include="Entity\ProductPrice.cs" />
+    <Compile Include="Entity\ProductProtection.cs" />
+    <Compile Include="Entity\ProductSpecialInfo.cs" />
+    <Compile Include="Entity\ProductToCategory.cs" />
+    <Compile Include="Entity\ProductToCountDown.cs" />
+    <Compile Include="Entity\ProductToTag.cs" />
+    <Compile Include="Entity\PurchaseLimitation.cs" />
+    <Compile Include="Entity\PurchaseLimitationItem.cs" />
+    <Compile Include="Entity\QuickCart.cs" />
+    <Compile Include="Entity\Region.cs" />
+    <Compile Include="Entity\ScriptTag.cs" />
+    <Compile Include="Entity\Selection.cs" />
+    <Compile Include="Entity\SelectionGroup.cs" />
+    <Compile Include="Entity\SelectionToProduct.cs" />
+    <Compile Include="Entity\Shipment.cs" />
+    <Compile Include="Entity\ShipmentItem.cs" />
+    <Compile Include="Entity\ShippingAddress.cs" />
+    <Compile Include="Entity\ShippingCompany.cs" />
+    <Compile Include="Entity\ShippingProvider.cs" />
+    <Compile Include="Entity\ShippingProviderSetting.cs" />
+    <Compile Include="Entity\ShippingRate.cs" />
+    <Compile Include="Entity\ShopCampaigns.cs" />
+    <Compile Include="Entity\ShopToken.cs" />
+    <Compile Include="Entity\ShopUserlevel.cs" />
+    <Compile Include="Entity\SpecGroup.cs" />
+    <Compile Include="Entity\SpecName.cs" />
+    <Compile Include="Entity\SpecToProduct.cs" />
+    <Compile Include="Entity\SpecValue.cs" />
+    <Compile Include="Entity\Tag.cs" />
+    <Compile Include="Entity\Theme.cs" />
+    <Compile Include="Entity\Town.cs" />
+    <Compile Include="Entity\TownGroup.cs" />
+    <Compile Include="Entity\User.cs" />
+    <Compile Include="Enums\BillingAddressInvoiceType.cs" />
+    <Compile Include="Enums\CategoryShowcaseContentDisplayType.cs" />
+    <Compile Include="Enums\CountryStatus.cs" />
+    <Compile Include="Enums\CurrencyIsPrimary.cs" />
+    <Compile Include="Enums\LocationPredefined.cs" />
+    <Compile Include="Enums\MemberAddressInvoiceType.cs" />
+    <Compile Include="Enums\MemberAddressType.cs" />
+    <Compile Include="Enums\MemberStatus.cs" />
+    <Compile Include="Enums\OptionLogo.cs" />
+    <Compile Include="Enums\OrderDeviceType.cs" />
+    <Compile Include="Enums\OrderItemProductStockTypeLabel.cs" />
+    <Compile Include="Enums\OrderPaymentStatus.cs" />
+    <Compile Include="Enums\OrderRefundRequestItemReason.cs" />
+    <Compile Include="Enums\OrderRefundRequestStatus.cs" />
+    <Compile Include="Enums\OrderShippingPaymentType.cs" />
+    <Compile Include="Enums\OrderStatus.cs" />
+    <Compile Include="Enums\PaymentDeviceType.cs" />
+    <Compile Include="Enums\PaymentStatus.cs" />
+    <Compile Include="Enums\PreOrderInfoBillingInvoiceType.cs" />
+    <Compile Include="Enums\ProductCommentRank.cs" />
+    <Compile Include="Enums\ProductImageExtension.cs" />
+    <Compile Include="Enums\ProductStockTypeLabel.cs" />
+    <Compile Include="Enums\PurchaseLimitationType.cs" />
+    <Compile Include="Enums\ShipmentItemCurrency.cs" />
+    <Compile Include="Enums\ShippingCompanyPaymentType.cs" />
+    <Compile Include="Enums\ShippingCompanyStatus.cs" />
+    <Compile Include="Enums\ShippingProviderTrackingFormMethod.cs" />
+    <Compile Include="Enums\SpecNameChoiceType.cs" />
+    <Compile Include="Enums\SpecValueLogo.cs" />
+    <Compile Include="Enums\ThemePlatform.cs" />
+    <Compile Include="Enums\ThemeType.cs" />
+    <Compile Include="Enums\UserStatus.cs" />
+    <Compile Include="Helpers\ResultModel.cs" />
+    <Compile Include="Map\AssetMap.cs" />
+    <Compile Include="Map\BaseMap.cs" />
+    <Compile Include="Map\BillingAddressMap.cs" />
+    <Compile Include="Map\BrandMap.cs" />
+    <Compile Include="Map\CartItemMap.cs" />
+    <Compile Include="Map\CartMap.cs" />
+    <Compile Include="Map\CategoryMap.cs" />
+    <Compile Include="Map\CombineProductMap.cs" />
+    <Compile Include="Map\CountryMap.cs" />
+    <Compile Include="Map\CurrencyMap.cs" />
+    <Compile Include="Map\CurrentAccountMap.cs" />
+    <Compile Include="Map\DistributorMap.cs" />
+    <Compile Include="Map\DistributorToProductMap.cs" />
+    <Compile Include="Map\ErrorMap.cs" />
+    <Compile Include="Map\ExtraInfoMap.cs" />
+    <Compile Include="Map\ExtraInfoToProductMap.cs" />
+    <Compile Include="Map\FavouritedProductMap.cs" />
+    <Compile Include="Map\InstallmentRateMap.cs" />
+    <Compile Include="Map\LabelMap.cs" />
+    <Compile Include="Map\LabelToProductMap.cs" />
+    <Compile Include="Map\LocationMap.cs" />
+    <Compile Include="Map\MaillistGroupMap.cs" />
+    <Compile Include="Map\MaillistMap.cs" />
+    <Compile Include="Map\MemberAddressMap.cs" />
+    <Compile Include="Map\MemberGroupMap.cs" />
+    <Compile Include="Map\MemberMap.cs" />
+    <Compile Include="Map\OptionGroupMap.cs" />
+    <Compile Include="Map\OptionMap.cs" />
+    <Compile Include="Map\OptionToProductMap.cs" />
+    <Compile Include="Map\OrderAddressMap.cs" />
+    <Compile Include="Map\OrderDetailMap.cs" />
+    <Compile Include="Map\OrderItemCustomizationMap.cs" />
+    <Compile Include="Map\OrderItemMap.cs" />
+    <Compile Include="Map\OrderItemSubscriptionMap.cs" />
+    <Compile Include="Map\OrderMap.cs" />
+    <Compile Include="Map\OrderRefundRequestItemMap.cs" />
+    <Compile Include="Map\OrderRefundRequestMap.cs" />
+    <Compile Include="Map\OrderUserNoteMap.cs" />
+    <Compile Include="Map\PaymentGatewayMap.cs" />
+    <Compile Include="Map\PaymentGatewaySettingMap.cs" />
+    <Compile Include="Map\PaymentMap.cs" />
+    <Compile Include="Map\PaymentProviderMap.cs" />
+    <Compile Include="Map\PaymentProviderSettingMap.cs" />
+    <Compile Include="Map\PaymentTypeMap.cs" />
+    <Compile Include="Map\PreferenceMap.cs" />
+    <Compile Include="Map\PreOrderInfoMap.cs" />
+    <Compile Include="Map\ProductButtonMap.cs" />
+    <Compile Include="Map\ProductCommentMap.cs" />
+    <Compile Include="Map\ProductDetailMap.cs" />
+    <Compile Include="Map\ProductImageMap.cs" />
+    <Compile Include="Map\ProductMap.cs" />
+    <Compile Include="Map\ProductPriceMap.cs" />
+    <Compile Include="Map\ProductProtectionMap.cs" />
+    <Compile Include="Map\ProductSpecialInfoMap.cs" />
+    <Compile Include="Map\ProductToCategoryMap.cs" />
+    <Compile Include="Map\ProductToCountDownMap.cs" />
+    <Compile Include="Map\ProductToTagMap.cs" />
+    <Compile Include="Map\PurchaseLimitationItemMap.cs" />
+    <Compile Include="Map\PurchaseLimitationMap.cs" />
+    <Compile Include="Map\QuickCartMap.cs" />
+    <Compile Include="Map\RegionMap.cs" />
+    <Compile Include="Map\ScriptTagMap.cs" />
+    <Compile Include="Map\SelectionGroupMap.cs" />
+    <Compile Include="Map\SelectionMap.cs" />
+    <Compile Include="Map\SelectionToProductMap.cs" />
+    <Compile Include="Map\ShipmentItemMap.cs" />
+    <Compile Include="Map\ShipmentMap.cs" />
+    <Compile Include="Map\ShippingAddressMap.cs" />
+    <Compile Include="Map\ShippingCompanyMap.cs" />
+    <Compile Include="Map\ShippingProviderMap.cs" />
+    <Compile Include="Map\ShippingProviderSettingMap.cs" />
+    <Compile Include="Map\ShippingRateMap.cs" />
+    <Compile Include="Map\ShopCampaignsMap.cs" />
+    <Compile Include="Map\ShopTokenMap.cs" />
+    <Compile Include="Map\ShopUserlevelMap.cs" />
+    <Compile Include="Map\SpecGroupMap.cs" />
+    <Compile Include="Map\SpecNameMap.cs" />
+    <Compile Include="Map\SpecToProductMap.cs" />
+    <Compile Include="Map\SpecValueMap.cs" />
+    <Compile Include="Map\TagMap.cs" />
+    <Compile Include="Map\ThemeMap.cs" />
+    <Compile Include="Map\TownGroupMap.cs" />
+    <Compile Include="Map\TownMap.cs" />
+    <Compile Include="Map\UserMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

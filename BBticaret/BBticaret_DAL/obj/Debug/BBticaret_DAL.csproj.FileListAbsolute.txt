@@ -1,0 +1,213 @@
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_DAL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Country.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Region.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Distributor.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ExtraInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SelectionGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Error.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopToken.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.QuickCart.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.TownGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Category.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Label.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Currency.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MaillistGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Brand.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProviderSetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentType.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopCampaigns.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PurchaseLimitation.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ScriptTag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Location.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Tag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItemSubscription.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItemCustomization.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Preference.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Theme.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Asset.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecName.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecValue.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MemberGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OptionGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Option.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopUserlevel.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Member.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CurrentAccount.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Selection.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Town.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Maillist.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Payment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProvider.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentGateway.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentGatewaySetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Cart.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.InstallmentRate.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingProvider.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingProviderSetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Product.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCountDown.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCountDown1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductDetail.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductPrice.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCategory.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductImage.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToTag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductButton.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductComment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MemberAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OptionToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.User.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.DistributorToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ExtraInfoToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SelectionToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductProtection.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.FavouritedProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingCompany.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingRate.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.LabelToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CombineProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductSpecialInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PurchaseLimitationItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CartItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.BillingAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Order.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.BillingAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderDetail.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderRefundRequest.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderRefundRequestItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PreOrderInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderUserNote.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Shipment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShipmentItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProvider1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_DAL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Country.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Region.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Distributor.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ExtraInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SelectionGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Error.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopToken.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.QuickCart.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.TownGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Category.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Label.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Currency.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MaillistGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Brand.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProviderSetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentType.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopCampaigns.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PurchaseLimitation.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ScriptTag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Location.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Tag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItemSubscription.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItemCustomization.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Preference.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Theme.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Asset.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecName.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecValue.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MemberGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OptionGroup.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Option.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShopUserlevel.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Member.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CurrentAccount.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Selection.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Town.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Maillist.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Payment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProvider.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentGateway.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentGatewaySetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Cart.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.InstallmentRate.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingProvider.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingProviderSetting.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCountDown.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Product.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCountDown1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductDetail.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductPrice.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToCategory.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SpecToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductImage.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductToTag.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductButton.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductComment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.MemberAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OptionToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.User.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.DistributorToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ExtraInfoToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.SelectionToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductProtection.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.FavouritedProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingCompany.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingRate.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.LabelToProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CombineProduct.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ProductSpecialInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PurchaseLimitationItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.CartItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.BillingAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingAddress.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Order.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShippingAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.BillingAddress1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderDetail.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderRefundRequest.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderRefundRequestItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PreOrderInfo.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderUserNote.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.Shipment.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.ShipmentItem.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentProvider1.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.AssetToTheme.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.QuickCartToCart.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PaymentToError.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.PreferenceToDistributor.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret_DAL\obj\Debug\BBticaret_DAL.Migrations.OrderItemCustomizationToOIS.resources

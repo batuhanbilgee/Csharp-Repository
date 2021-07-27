@@ -1,0 +1,40 @@
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret.exe.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret.exe
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_BLL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_BLL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.exe
+C:\Users\batuhan bilge\Desktop\BBticaret\BBticaret\obj\Debug\BBticaret.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret.exe.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret.exe
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_BLL.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_Model.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_BLL.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_BLL.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_Model.pdb
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\BBticaret_Model.dll.config
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.exe
+C:\Users\batuhan bilge\Desktop\BBticaret - Kopya\BBticaret\obj\Debug\BBticaret.pdb
