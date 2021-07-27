@@ -1,0 +1,88 @@
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraMalzemeEkle.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.FrmMainMdi.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraMalzemeEkle.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.FrmMainMdi.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\BİLGE ADAM\yenisınıfgeçiş\3_OOP_C\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraMalzemeEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.FrmMainMdi.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Migrations.Init.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraMalzemeEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.FrmMainMdi.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Migrations.Init.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\EntityFramework.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\EntityFramework.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csprojAssemblyReference.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraMalzemeEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.FrmMainMdi.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Migrations.Init.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CopyComplete
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Users\batuhan bilge\Desktop\21_OOP_Hamburgerci(DbFirt)Son2\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
